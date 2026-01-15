@@ -24,4 +24,7 @@ The project uses a **fictional social media login page** to show how users can u
 
 ---
 
-## Folder Structure
+## image
+<img width="1920" height="921" alt="Screenshot_2026-01-16_02_04_46" src="https://github.com/user-attachments/assets/e5b4b4fe-e2e4-40bf-b0bd-4725aac72966" />
+<img width="1920" height="921" alt="image" src="https://github.com/user-attachments/assets/97e0c2fe-4f27-4986-aa7c-e5bd36e77be0" />
+
